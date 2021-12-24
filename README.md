@@ -20,8 +20,9 @@ and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/ex_banking](https://hexdocs.pm/ex_banking).
 
 
-Do Follow Setps:
-  cd ex_banking
+## Do Follow Steps:
+  ```cd ex_banking
   mix test => Test the testcase
   iex -S mix => Play with your own input
+  ```
 
