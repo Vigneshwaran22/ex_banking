@@ -21,7 +21,8 @@ be found at [https://hexdocs.pm/ex_banking](https://hexdocs.pm/ex_banking).
 
 
 ## Do Follow Steps:
-  ```cd ex_banking
+  ```
+  cd ex_banking
   mix test => Test the testcase
   iex -S mix => Play with your own input
   ```
